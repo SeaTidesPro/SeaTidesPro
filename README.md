@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on AI Lab.
 - 📫 How to reach me: tidesnn@gmail.com .
 
-<img src="https://github-readme-stats.vercel.app/api?username=SeaTidesProy&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SeaTidesPro&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;"/>
 
 
 <!--
